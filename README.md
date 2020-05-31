@@ -36,11 +36,14 @@ r 0 0 100 100
 c 100 100 20
 ```
 
+![alt text](https://github.com/sankarms15/abyss-tech-challenge/blob/master/src/assets/Simple-example.PNG)
+
 Star
 
 ```
 p 100,10 40,198 190,78 10,78 160,198
 ```
+![alt text](https://github.com/sankarms15/abyss-tech-challenge/blob/master/src/assets/star.PNG)
 
 Complex #1
 
@@ -49,3 +52,4 @@ p 200,10 250,190 160,210
 c 20 100 20
 r 100 50 25 25 
 ```
+![alt text](https://github.com/sankarms15/abyss-tech-challenge/blob/master/src/assets/Complex-example.PNG)
