@@ -1,6 +1,12 @@
 # ABYSS TECH CHALLENGE
 
-This app is Using Vue with no other third party libraries, It has a simple implementation of a Plotter - which should be able draw them in real-time onto an SVG element based on given Input. 
+This app is Using Vue as Tech stach with no other third party libraries, It has a simple implementation of a Plotter - which should be able draw real-time SVG element based on given Input. 
+
+This app supports following Browsers:
+
+* IE 11
+* Chrome
+* Firfox
 
 ## Project setup
 ```
